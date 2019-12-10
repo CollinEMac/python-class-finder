@@ -1,3 +1,3 @@
-# python-class-finder README
+# python-class-finder
 
-This is the README for your extension "python-class-finder". After writing up a brief description, we recommend including the following sections.
+A Visual Studio Code extension that displays what class the cursor is in. 
